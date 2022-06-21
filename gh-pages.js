@@ -11,7 +11,7 @@ publish(
             name: 'Towsti', // update to use your name
             email: 'Towsti1@gmail.com' // Update to use your email
         },
-        dotfiles: true
+        // dotfiles: true
     },
     () => {
         console.log('Deploy Complete!');
