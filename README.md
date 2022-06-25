@@ -1,3 +1,9 @@
+```
+npm install
+npm run dev
+node .\gh-pages.js
+```
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.

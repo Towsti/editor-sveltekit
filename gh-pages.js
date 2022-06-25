@@ -8,8 +8,9 @@ publish(
         branch: 'gh-pages',
         repo: 'https://github.com/Towsti/editor-sveltekit.git', // Update to point to your repository
         user: {
-            name: 'Towsti', // update to use your name
-            email: 'Towsti1@gmail.com' // Update to use your email
+            name: 'autobuild'
+            // name: 'Towsti', // update to use your name
+            // email: 'Towsti1@gmail.com' // Update to use your email
         },
         // dotfiles: true
     },
